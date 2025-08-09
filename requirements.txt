@@ -1,0 +1,11 @@
+pandas==2.2.3
+streamlit==1.44.1
+plotly==5.24.1
+
+#esse arquivo é utilizado para não instalar bibliotecas 
+#uma por uma
+
+#código para instalar as bibliotecas (pip install -r requirements.txt)
+#- r indica que são várias linhas de instalação
+
+#streamlit run app.py
